@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Моя история любви 💙</title>
-  <style>
-    body {
-      background: #f6f1e7;
-      color: #2e2e2e;
-      font-family: Georgia, "Times New Roman", serif;
-      max-width: 800px;
-      margin: 60px auto;
-      padding: 50px;
-      line-height: 1.9;
-      box-shadow: 0 0 25px rgba(0,0,0,0.15);
-      border-radius: 16px;
-    }
-    h1 {
-      text-align: center;
-      font-size: 38px;
-      margin-bottom: 40px;
-    }
-    p {
-      font-size: 20px;
-      text-indent: 40px;
-      margin-bottom: 25px;
-    }
-    .end {
-      text-align: center;
-      margin-top: 50px;
-      font-size: 22px;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
 
 <h1>Моя история любви 💙</h1>
 
